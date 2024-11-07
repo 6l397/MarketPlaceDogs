@@ -1,0 +1,6 @@
+@dogmate_marketplace_HostAddress = http://localhost:5062
+
+GET {{dogmate_marketplace_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

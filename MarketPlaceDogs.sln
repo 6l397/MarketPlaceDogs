@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{E7CD2BFC-5F48-4017-A8E3-8A6D1FD5D1DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dogmate_marketplace", "apigateway\dogmate_marketplace.csproj", "{2D92F160-348B-4522-AF7C-8B599503702D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CD2BFC-5F48-4017-A8E3-8A6D1FD5D1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CD2BFC-5F48-4017-A8E3-8A6D1FD5D1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CD2BFC-5F48-4017-A8E3-8A6D1FD5D1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CD2BFC-5F48-4017-A8E3-8A6D1FD5D1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D92F160-348B-4522-AF7C-8B599503702D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D92F160-348B-4522-AF7C-8B599503702D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D92F160-348B-4522-AF7C-8B599503702D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D92F160-348B-4522-AF7C-8B599503702D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22D6480-B5BD-42AB-A962-E49D7DDD4690}
+	EndGlobalSection
+EndGlobal
